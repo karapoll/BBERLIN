@@ -1,4 +1,4 @@
 BBERLIN
 =======
 
-responsive blog 
+another responsive blog about BBERLIN
